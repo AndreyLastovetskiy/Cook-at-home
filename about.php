@@ -159,7 +159,7 @@ require_once("./db/db.php");
       <section class="reservation">
         <div class="container">
           <div class="form reservation-form bg-black-10">
-            <form action="" class="form-left">
+            <form action="./reservat/reservat.php" class="form-left">
               <h2 class="headline-1 text-center">Онлайн заказ</h2>
               <p class="form-text text-center">
                 Заказ по телефону <a href="tel:+1123456789" class="link">+11-234-56789</a>
